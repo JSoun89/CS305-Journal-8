@@ -25,4 +25,5 @@ One of the source I used the most and will continue to use is stack overflow. Al
 
 #Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
 
+ 
 I would show the project 2 assignment to my future employers. 
